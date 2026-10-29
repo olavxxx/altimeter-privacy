@@ -2,11 +2,10 @@
 
 Public GitHub Pages source for the Altimeter privacy policy.
 
-**Live:** <https://olavxxx.github.io/altimeter-privacy/> (pending first publish)
+**Live:** <https://olavxxx.github.io/altimeter-privacy/>
 
-Pages is deployed from `main` / root. First publish: create the public GitHub repository
-`olavxxx/altimeter-privacy`, push this repository, then enable **Settings → Pages → Deploy from a
-branch → main / (root)**. Verify HTTP 200, `olavamjelde@gmail.com`, and both language sections.
+Pages is deployed from `main` / root. Published 2026-10-29 and verified live the same day: HTTP 200,
+`olavamjelde@gmail.com`, both language sections, no placeholders.
 
 ## Updating
 
